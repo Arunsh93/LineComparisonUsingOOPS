@@ -1,0 +1,13 @@
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.exe
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.deps.json
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.runtimeconfig.json
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.runtimeconfig.dev.json
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.dll
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.pdb
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.AssemblyInfoInputs.cache
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.AssemblyInfo.cs
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.csproj.CoreCompileInputs.cache
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.dll
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.pdb
+E:\ASP.NET\LineComparisonUsingOOPS\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.genruntimeconfig.cache
