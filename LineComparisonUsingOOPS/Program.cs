@@ -11,8 +11,11 @@ namespace LineComparisonUsingOOPS
             //UC1_LengthCalculation obj1 = new UC1_LengthCalculation();
             //obj1.getCartician();
 
-            UC2_FindLineEqulity obj2 = new UC2_FindLineEqulity();
-            obj2.GetLineEqulity();
+            //UC2_FindLineEqulity obj2 = new UC2_FindLineEqulity();
+            //obj2.GetLineEqulity();
+
+            UC3_CheckTwoLineEqualGreaterLesser obj3 = new UC3_CheckTwoLineEqualGreaterLesser();
+            obj3.GetLineEqulityGreaterLesser();
         }
     }
 }
