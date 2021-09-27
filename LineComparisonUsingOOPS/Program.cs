@@ -14,8 +14,11 @@ namespace LineComparisonUsingOOPS
             //UC2_FindLineEqulity obj2 = new UC2_FindLineEqulity();
             //obj2.GetLineEqulity();
 
-            UC3_CheckTwoLineEqualGreaterLesser obj3 = new UC3_CheckTwoLineEqualGreaterLesser();
-            obj3.GetLineEqulityGreaterLesser();
+            //UC3_CheckTwoLineEqualGreaterLesser obj3 = new UC3_CheckTwoLineEqualGreaterLesser();
+            //obj3.GetLineEqulityGreaterLesser();
+
+            UC4_UsingComapreToMethod obj4 = new UC4_UsingComapreToMethod();
+            obj4.UsingCompareToMethod();
         }
     }
 }
